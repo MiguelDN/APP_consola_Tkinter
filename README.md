@@ -1,2 +1,2 @@
-# APP_consola_Tkinter
-Práctica curso Pthon
+# Práctica_app_consola_Tkinter
+Práctica curso Python
